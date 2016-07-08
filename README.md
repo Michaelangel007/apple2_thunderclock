@@ -88,8 +88,12 @@
 
 # == Questions ==
 
+Due to missing or unlabeled parts some questions remain:
+
 * What is Y1 ?
 * What is CX ?
 * What is D1 ?
 * What is D2 ?
+* What is Q2 ?
+* What is Q4 ?
 
