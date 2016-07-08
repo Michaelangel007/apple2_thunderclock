@@ -4,15 +4,14 @@
 
 * 1x 1990C
 * 1x 2708 (EPROM)
-* 1x 74LS08
-* 1x 74LS27
-* 1x 74LS74
-* 1x 74LS109
-* 1x 74LS132
-* 1x 74LS126
-* 1x 74LS174
+* 1x 74LS08 (Hitachi 0D4 8 / HD74LS08P)
+* 1x 74LS27 (Hitachi 0F44  / HD74LS27P)
+* 1x 74LS74 (Hitachi 0E3 T / HD74LS74AP)
+* 1x 74LS109 (Hitachi OF2 4 / HD74LS109AP)
+* 1x 74LS126 (Hitachi 0J3 4 / HD74LS126AP)
+* 1x 74LS132 (Motorola SN74LS132N / I8015)
+* 1x 74LS174 (Hitachi 0D4 T / HD74LS174P)
 * 1x CD4050  (Motorola MC14050B / CP QQ8014)
-* 1x D4050
 * B1 HOLDER BATTERY 1CELL N ALUMINUM DigiKey: [36-154-ND](http://www.digikey.com/product-detail/en/keystone-electronics/154/36-154-ND/61790)
 * B2 HOLDER BATTERY 1CELL N ALUMINUM DigiKey: [36-154-ND](http://www.digikey.com/product-detail/en/keystone-electronics/154/36-154-ND/61790)
 * C1 104Z (East)
