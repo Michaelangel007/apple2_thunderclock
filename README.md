@@ -91,4 +91,6 @@
 
 * What is Y1 ?
 * What is CX ?
+* What is D1 ?
+* What is D2 ?
 
