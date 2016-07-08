@@ -2,7 +2,7 @@
 
 # == Parts List ==
 
-* 1x 1990C
+* 1x 1990C (NEC uPD1990C K0Z02A)
 * 1x 2708 (EPROM)
 * 1x 74LS08 (Hitachi 0D4 8 / HD74LS08P)
 * 1x 74LS27 (Hitachi 0F44  / HD74LS27P)
