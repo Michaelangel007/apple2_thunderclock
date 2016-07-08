@@ -1,4 +1,4 @@
-# ThunderClock Plus
+# Apple 2 Hardware Disassembly Project - Peripheral: ThunderClock Plus
 
 # == Parts List ==
 
